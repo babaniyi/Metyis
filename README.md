@@ -1,4 +1,6 @@
-# Metyis Data Scinetist Challenge
+# Metyis Data Scientist Challenge
+
+Read my solutions to this challenge [click here for best view](https://nbviewer.jupyter.org/github/neahyo/Metyis/blob/2ab5b24e901cf1eaa1dbcb657684ebc311ff0882/Metyis/Analysis.ipynb)
 
 ## Motivation
 Is the movie industry dying? is Netflix the new entertainment king? Those were the first questions that led to create a dataset focused on movie revenue and analyze it over the last decades. But, why stop there? There are more factors that intervene in this kind of thing, like actors, genres, user ratings and more.
@@ -18,4 +20,3 @@ I provide recommendations about the type of movies a film production company wou
 
 * Is there an actor/actress that guarantees the success of the film? Or a director?
 
-Read my solutions to this challenge [click here for best view](https://nbviewer.jupyter.org/github/neahyo/Metyis/blob/2ab5b24e901cf1eaa1dbcb657684ebc311ff0882/Metyis/Analysis.ipynb)

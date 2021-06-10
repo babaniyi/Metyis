@@ -7,11 +7,11 @@ Is the movie industry dying? is Netflix the new entertainment king? Those were t
 
 
 ## Questions
-I provide recommendations about the type of movies a film production company would have to do if the box takings have to be maximized. As an example, I provide answers to the following questions that the company could have:
+I provide recommendation about the type of movies a film production company would have to do if the box takings and profit have to be maximized. As an example, I provide answers to the following questions that the company could have:
 
 * In which genre should the film company focus on?
 
-* How important is to produce a good film (high IMDB rating)to get lots of takings?
+* How important is to produce a good film (high IMDB rating) to get lots of takings?
 
 * Is it better to produce a film for a general audience or is it better to produce a film targeted to a particular segment?
 
